@@ -5,7 +5,6 @@ Chat app
 Discord server: https://discord.gg/uch68Ujf38 
 
 ### Project
-* GitHub Organization: https://github.com/AdaptChat
 * Essence (Database and shared models): https://github.com/AdaptChat/essence
 * Webserver (REST API): https://github.com/AdaptChat/webserver
 * Harmony (WebSocket): https://github.com/AdaptChat/harmony
@@ -17,6 +16,7 @@ Discord server: https://discord.gg/uch68Ujf38
 * OpenAPI Specification (v3.0.3):
   * JSON: https://adapt.lambdabot.cf/openapi.json
   * YAML: https://github.com/AdaptChat/webserver/blob/main/openapi.yml
+ * TypeScript auto-generated definitions: https://github.com/AdaptChat/adapt-types
 
 ### Other APIs
 * WebSocket (harmony): wss://harmony.bobobot.cf

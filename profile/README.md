@@ -1,5 +1,5 @@
 # Adapt
-Chat app
+A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 
 ## Resources
 Discord server: https://discord.gg/uch68Ujf38 

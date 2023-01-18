@@ -1,4 +1,7 @@
 {
     "name": "Generate documentation",
     "description": "Host crate documentation with Github pages",
+    "categories": [
+        "Rust"
+    ],
 }

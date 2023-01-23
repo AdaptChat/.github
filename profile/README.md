@@ -2,6 +2,7 @@
 A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 
 ## Resources
+Site: https://adapt.chat
 Discord server: https://discord.gg/uch68Ujf38 
 
 ### Project
@@ -11,7 +12,7 @@ Discord server: https://discord.gg/uch68Ujf38
 * Convey (CDN): https://github.com/AdaptChat/convey
 
 ### REST API
-* Root endpoint: https://adapt.lambdabot.cf
+* Root endpoint: https://api.adapt.chat
 * API Documentation and Playground (SwaggerUI): https://api.adapt.chat/docs
 * OpenAPI Specification (v3.0.3):
   * JSON: https://api.adapt.chat/openapi.json

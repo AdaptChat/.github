@@ -12,12 +12,12 @@ Discord server: https://discord.gg/uch68Ujf38
 
 ### REST API
 * Root endpoint: https://adapt.lambdabot.cf
-* API Documentation and Playground (SwaggerUI): https://adapt.lambdabot.cf/docs
+* API Documentation and Playground (SwaggerUI): https://api.adapt.chat/docs
 * OpenAPI Specification (v3.0.3):
-  * JSON: https://adapt.lambdabot.cf/openapi.json
+  * JSON: https://api.adapt.chat/openapi.json
   * YAML: https://github.com/AdaptChat/webserver/blob/main/openapi.yml
  * TypeScript auto-generated definitions: https://github.com/AdaptChat/adapt-types
 
 ### Other APIs
-* WebSocket (harmony): wss://harmony.bobobot.cf
-* CDN (convey): https://convey.bobobot.cf
+* WebSocket (harmony): wss://harmony.adapt.chat
+* CDN (convey): https://convey.adapt.chat

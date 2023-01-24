@@ -2,8 +2,8 @@
 A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 
 ## Resources
-Site: https://adapt.chat
-Discord server: https://discord.gg/uch68Ujf38 
+* Site: https://adapt.chat
+* Discord server: https://discord.gg/uch68Ujf38 
 
 ### Project
 * Essence (Database and shared models): https://github.com/AdaptChat/essence

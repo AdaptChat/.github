@@ -3,6 +3,7 @@ A versatile chat platform that prioritizes performance, privacy, and ergonomics.
 
 ## Resources
 * Site: https://adapt.chat
+* App: https://app.adapt.chat
 * Discord server: https://adapt.chat/discord
 
 ### Project
